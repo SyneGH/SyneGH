@@ -8,17 +8,17 @@
 <!--
 ### 🛠️ Personal Technical Projects & Labs
 
-| Project                    | Technologies          | Status      |
-| -------------------------- | --------------------- | ----------- |
-| [https://google.com](LINK)   | Linux, SSH, systemd   | Completed   |
-| [Windows Server Lab](LINK) | Windows Server, AD DS | In Progress |
-| [Network Troubleshooting Lab](LINK) | TCP/IP, DNS, DHCP | Completed |
-| [System Administration Scripts](LINK) | Bash, PowerShell | In Progress |
+| Project                    | Technologies          | Date    | Status      |
+| -------------------------- | --------------------- | ------- | ----------- |
+| [https://google.com](LINK)   | Linux, SSH, systemd   | 2026/09    | Completed   |
+| [Windows Server Lab](LINK) | Windows Server, AD DS | 2026/08    | In Progress |
+| [Network Troubleshooting Lab](LINK) | TCP/IP, DNS, DHCP | 2026/05    | Completed |
+| [System Administration Scripts](LINK) | Bash, PowerShell | 2026/05    | In Progress |
 
 ### 💻 Hardware Diagnosis, Servicing, & Maintenance
 
-| Project                    | Skills                | Status    |
-| -------------------------- | --------------------- | --------- |
-| [Laptop Maintenance](LINK) | Cleaning, Diagnostics | Completed |
-| [Laptop Storage Upgrade](LINK) | SSD Installation, OS Deployment | Completed |
+| Project                    | Skills                | Date    | Status    |
+| -------------------------- | --------------------- | ------- | --------- |
+| [Laptop Maintenance](LINK) | Cleaning, Diagnostics | 2026/09    | Completed |
+| [Laptop Storage Upgrade](LINK) | SSD Installation, OS Deployment | 2026/09    | Completed |
 -->
