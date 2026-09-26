@@ -22,3 +22,8 @@
 | [Laptop Maintenance](LINK) | Cleaning, Diagnostics | 2026/09    | Completed |
 | [Laptop Storage Upgrade](LINK) | SSD Installation, OS Deployment | 2026/09    | Completed |
 -->
+
+### 💻 Projects
+
+- **[BondVoyage — Backend API](https://github.com/SyneGH/bond-voyage-api-host)** — AI-powered collaborative travel planning system (capstone project). Backend, database, and DevOps for both frontend and backend deployments. Frontend built by teammate [virginiarosed](https://github.com/virginiarosed).
+- **[Personal IT Projects](https://github.com/SyneGH/personal-it-projects)** — Home lab infrastructure and hardware servicing: a self-hosted Debian server, home network administration (mesh Wi-Fi, CGNAT removal), and laptop hardware restorations.
